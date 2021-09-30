@@ -1,6 +1,6 @@
 # Welcome to the tutorial on using the latest Web Technologies
 <style>
-td, th, table {
+td, th {
    border: none!important;
 }
 </style>
