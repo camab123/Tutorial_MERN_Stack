@@ -2,10 +2,11 @@
 
 <h3> We will be learning these technologies </h3>
 <ul>
-  <li>Node.JS</li>
-  <li>REACT.JS</li>
-  <li>MongoDB</li>
-  <li>Express</li>
+  <li><strong>Node.JS</strong></li>
+  <li><strong>REACT.JS</strong></li>
+  <li><strong>MongoDB</strong></li>
+  <li><strong>Express</strong></li>
 </ul>
 
-<h3>This technology stack utilizes Javascript, HTML, CSS, and SQL. This tutorial assumes some knowledge of HTML/CSS.</h3>
+<p>This technology stack utilizes Javascript, HTML, CSS, and SQL. This tutorial assumes some knowledge of HTML/CSS.</p>
+
