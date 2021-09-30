@@ -19,4 +19,6 @@
   <li><strong>Functions</strong></li>
   <li><strong>Callbacks and Promises</strong></li>
 </ul>
+<p>A quick refresher video on Javascript if you need to go back to the basics</p>
+<a href="https://www.youtube.com/watch?v=upDLs1sn7g4" title="What is Javascript>"><img src="https://i.ytimg.com/vi_webp/kqtD5dpn9C8/maxresdefault.webp" alt="Video IMG" /></a>
 
