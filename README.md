@@ -1,5 +1,9 @@
 # Welcome to the tutorial on using the latest Web Technologies
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <h3> We will be learning these technologies </h3>
 <ul>
   <li><strong>Node.JS</strong></li>
