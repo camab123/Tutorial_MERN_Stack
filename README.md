@@ -1,9 +1,5 @@
 # Welcome to the tutorial on using the latest Web Technologies
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 <h3> We will be learning these technologies </h3>
 <ul>
   <li><strong>Node.JS</strong></li>
@@ -24,7 +20,7 @@ td, th {
   <li><strong>Callbacks and Promises</strong></li>
 </ul>
 <p>A quick refresher video on Javascript if you need to go back to the basics (Click the Image)</p>
-<table cellspacing="0" cellpadding="0">
+<table width="0">
   <td>
 <a href="https://www.youtube.com/watch?v=upDLs1sn7g4" title="Learn Javascript"><img src="https://img.youtube.com/vi/upDLs1sn7g4/maxresdefault.jpg" width="60%"/></a>
   </td>
