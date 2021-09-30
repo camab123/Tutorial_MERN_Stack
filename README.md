@@ -20,5 +20,5 @@
   <li><strong>Callbacks and Promises</strong></li>
 </ul>
 <p>A quick refresher video on Javascript if you need to go back to the basics</p>
-[![Watch the video](https://img.youtube.com/vi/upDLs1sn7g4/hqdefault.jpg)](https://youtu.be/upDLs1sn7g4)
+[![Watch the video](https://img.youtube.com/vi/upDLs1sn7g4/maxresdefault.jpg)](https://www.youtube.com/watch?v=upDLs1sn7g4)
 
