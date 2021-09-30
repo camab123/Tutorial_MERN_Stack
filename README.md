@@ -9,7 +9,7 @@
 </ul>
 
 <p>This technology stack utilizes Javascript, HTML, CSS, and SQL. This tutorial assumes some knowledge of HTML/CSS.</p>
-<br>
+<hr>
 <br>
 <h4>Let's begin with learning or refreshing our learning on Javascript!</h5>
 <p>A basic understanding of JavaScript will be essential to further learning</p>
