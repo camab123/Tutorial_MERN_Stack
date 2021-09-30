@@ -11,9 +11,9 @@
 <p>This technology stack utilizes Javascript, HTML, CSS, and SQL. This tutorial assumes some knowledge of HTML/CSS.</p>
 <br>
 <br>
-<h5>Let's begin with learning or refreshing our learning on Javascript!</h5>
+<h4>Let's begin with learning or refreshing our learning on Javascript!</h5>
 <p>A basic understanding of JavaScript will be essential to further learning</p>
-<h6>Each of these key components should be understood before moving on</h6>
+<h5>Each of these key components should be understood before moving on</h6>
 <ul>
   <li><strong>Variables</strong></li>
   <li><strong>Working with Data</strong></li>
