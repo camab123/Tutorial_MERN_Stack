@@ -41,7 +41,7 @@
   <h3>Read these sections in Docs:</h3>
     <ol>
       <li>Intro to Node</li>
-      <li>How to install Node</li>
+      <li>Using socket.io for real time requests</li>
       <li>Store data with Mongoose and MongoDB</li>
       <li>Guide to deploy applications</li>
     </ol>
