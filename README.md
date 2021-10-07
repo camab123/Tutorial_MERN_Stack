@@ -36,7 +36,23 @@
 <br>
 <h3>Links to Tutorial Pages</h3>
 <ul>
-  <li><a href="https://github.com/camab123/Tutorial_MERN_Stack/blob/main/Javascript/JS_Tutorial.md" title="Javascript Readme"><h3>Learn Javascript<h3><a></li>
-  <li><a href="https://github.com/camab123/Tutorial_MERN_Stack/blob/main/NodeJS/Node_Tutorial.md" title="Javascript Readme"><h3>Learn Node.JS<h3><a></li>
-  <li><a href="https://github.com/camab123/Tutorial_MERN_Stack/blob/main/REACT/REACT_Tutorial.md" title="REACT Readme"><h3>Learn REACT<h3><a></li>
-  <li><a href="https://github.com/camab123/Tutorial_MERN_Stack/blob/main/MongoDB/MongoDB_Tutorial.md" title="MongoDB Readme"><h3>Learn MongoDB<h3><a></li>
+  <li>
+  
+  [**Learn Javascript**](https://github.com/camab123/Tutorial_MERN_Stack/blob/main/Javascript/JS_Tutorial.md)
+  
+  </li>
+  <li>
+  
+  [**Learn Node.JS**](https://github.com/camab123/Tutorial_MERN_Stack/blob/main/NodeJS/Node_Tutorial.md)
+  
+  </li>
+  <li>
+  
+  [**Learn REACT**](https://github.com/camab123/Tutorial_MERN_Stack/blob/main/REACT/REACT_Tutorial.md)
+  
+  </li>
+  <li>
+  
+  [**Learn MongoDB**](https://github.com/camab123/Tutorial_MERN_Stack/blob/main/MongoDB/MongoDB_Tutorial.md)
+  
+  </li>
