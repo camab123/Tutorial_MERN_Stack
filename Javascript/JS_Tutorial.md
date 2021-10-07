@@ -1,4 +1,4 @@
-<h1>Welcome to the Javascript Tuturial</h1>
+<h1>Welcome to the Javascript Tutorial</h1>
 <h3>Feel free to jump around to the sections you need!</h3>
 
 <br>
