@@ -3,7 +3,7 @@
 <br>
 <table>
   <td>
-    <a href="https://nodejs.dev/learn/introduction-to-nodejs" title="Node Docs"><img src="https://nodejs.dev/static/nodejs-logo-light-mode-e8344f71081da53be8ee1098584a0ab6.svg" width="100%"/></a>
+    <a href="https://nodejs.dev/learn/introduction-to-nodejs" title="Node Docs"><img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" width="50%"/></a>
   </td>
   <td>
   <h3>Read these sections in Docs:</h3>
