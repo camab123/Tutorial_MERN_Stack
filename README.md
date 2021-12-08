@@ -34,6 +34,19 @@
   </td>
 </table>
 <br>
+<table>
+  <td>
+    <a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc" title="Learn Javascript"><img src="https://img.youtube.com/vi/SWYqp7iY_Tc/maxresdefault.jpg" width="60%"/></a>
+  </td>
+  <td>
+    <ol><p>Learning Objectives</p>
+      <li>Introduction to Git/Github</li>
+      <li>Utilizing the CLI</li>
+      <li>Overview of commands and collaboration</li>
+    </ol>
+  </td>
+</table>
+<br>
 <h3>Links to Tutorial Pages</h3>
 <ul>
   <li>
